@@ -1,0 +1,6 @@
+# save this file as .gitignore
+# ignore the following:
+*.0
+*.out
+*.exe
+db.php
